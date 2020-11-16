@@ -15,3 +15,5 @@ We can, as an example effort, even modify this README and change it as if it wer
 This demo also includes an image with changes on a branch for examination of image diff on GitHub.
 
 I am saikiran, making changes in my repository for the first time.
+
+These are the changes that are made from my local machine. I want to check these changes remotely
